@@ -1,0 +1,40 @@
+
+# 2025-11-20 16:37:37.114080
++Code the following app
++```
++Name: Small Token Analyzer
++Purpose: Fast analysis of new, small-cap, or lesser-known tokens.
++Deployment Description:
++This mini app generates a structured token analysis based on publicly available information. The user enters a token name or ticker, and the bot returns a detailed breakdown: utility, tokenomics, unlock schedule, risks, competition, triggers for growth, and a risk warning.
++No APIs required — the app acts as an intelligent analytical template.
++Core Features:
++At least 8 analytical categories: Utility, Tokenomics, Unlocks, Competitors, Risks, Stage, Potential, Risk Score
++Checks exchange presence (based on known market data patterns, no API)
++Provides a final rating (“high / medium / low risk”)
++Supports user questions about the project
++Deployment Instructions:
++Deploy as an analytical mini-app with the main instruction:
++“When the user enters a token or project name, return a structured analysis in the format: Overview → Token Utility → Tokenomics → Unlocks → Roadmap → Risks → Opportunities → Final Score.”
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 16:37:37.115071
++Code the following app
++```
++Name: Small Token Analyzer
++Purpose: Fast analysis of new, small-cap, or lesser-known tokens.
++Deployment Description:
++This mini app generates a structured token analysis based on publicly available information. The user enters a token name or ticker, and the bot returns a detailed breakdown: utility, tokenomics, unlock schedule, risks, competition, triggers for growth, and a risk warning.
++No APIs required — the app acts as an intelligent analytical template.
++Core Features:
++At least 8 analytical categories: Utility, Tokenomics, Unlocks, Competitors, Risks, Stage, Potential, Risk Score
++Checks exchange presence (based on known market data patterns, no API)
++Provides a final rating (“high / medium / low risk”)
++Supports user questions about the project
++Deployment Instructions:
++Deploy as an analytical mini-app with the main instruction:
++“When the user enters a token or project name, return a structured analysis in the format: Overview → Token Utility → Tokenomics → Unlocks → Roadmap → Risks → Opportunities → Final Score.”
++```
++
++Generate an app logo and update the app metadata title and description.
